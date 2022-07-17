@@ -16,7 +16,7 @@ Working with the two .csv files I merged datasets based on the city columns whic
 
 <img width="700" alt="PyBer Summary DataFrame" src="https://user-images.githubusercontent.com/104927745/179375233-133c4887-b4e9-45b1-a070-96447ae50f0e.PNG">
 
-Next I creded a multipleline plot which would show the cleint the total weekly value of the fares for each type of city (Urban, SubUrban, rural).  
+Next I creded a multipleline plot which would show the cleint the total weekly value of the fares for each type of city (Urban, Suburban, Rural).  
 - This plot showed that there are drastically higher total fares in Urban cities as compared to Suburban and lastly to Rural.
 - Most of PyBer's total fares and revenue is being gained from Urban cities.
 
